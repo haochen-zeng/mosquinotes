@@ -7,12 +7,12 @@ A shared notes repository that aims to provide a collaborative platform for indi
 To fully utilize the shared notes, it is recommended to install [Obsidian](https://obsidian.md/). It allows you to view and create connections between the notes through links and more.
 
 To clone or download the repository and add it as a vault in Obsidian, follow these steps:
-1. Click on the "Code" button and select "Download ZIP" to download the repository as a ZIP file. Alternatively, you can copy the repository's URL and use it for cloning by executing the command `git clone https://github.com/EXSPIRAVIT1104OFFICIAL/Mosquinotes.git`.
+1. Click on the "Code" button and select "Download ZIP" to download the repository as a ZIP file. Alternatively, you can copy the repository's URL and use it for cloning by executing the command `git clone https://github.com/EXSPIRAVIT1104OFFICIAL/mosquinotes.git`.
 2. Extract the downloaded ZIP file to a location on your computer.
 3. Open Obsidian on your computer.
 4. Click on "Open folder as vault" in the Obsidian startup screen.
 5. Browse and select the extracted the repository folder.
-6. Obsidian will now display it as a vault. The content folder contains all the text file contents.
+6. Obsidian will now display it as a vault.
 
 ## Update
 
@@ -23,7 +23,7 @@ To view the newest version of a repository, you can update your local copy by fo
 
 ## Contribute
 
-Contributions are always welcome! Please use the templates folder to create content in the content folder.
+Contributions are always welcome! Please use the templates folder to create content.
 
 ## License
 

@@ -8,4 +8,4 @@ draft: false
 
 # Subjects
 
-## [[Computer science]]
+## [[Computer]]

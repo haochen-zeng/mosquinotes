@@ -2,8 +2,8 @@
 date: 2023-08-29
 draft: false
 tags:
-  - Definition
-  - Computer Science 
+  - definition
+  - computer-science 
 ---
 
 # Definition

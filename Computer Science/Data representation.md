@@ -2,11 +2,11 @@
 date: 2023-08-29
 draft: false
 tags:
-  - Chapter
-  - Computer science
+  - chapter
+  - computer-science
 ---
 
 # Sections
 
 ## [[Data types]]
-## [[File organisation]]
+## [[File organizations]]

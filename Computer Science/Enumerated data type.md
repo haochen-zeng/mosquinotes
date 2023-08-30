@@ -2,8 +2,8 @@
 date: 2023-08-29
 draft: false
 tags:
-  - Definition
-  - Computer science 
+  - definition
+  - computer-science 
 ---
 
 # Definition
@@ -11,6 +11,8 @@ tags:
 A non-composite [[User-defined data type]] for which the definition identifies all possible values.
 
 # Notes
+
+One example of [[User-defined data type]].
 
 The possible values are listed in the brackets.
 For example:
@@ -33,6 +35,5 @@ DECLARE Day : TDays
 Weekend = TRUE IF Day > Friday
 ```
 
-One example of [[User-defined data type]]. 
 There could not be a built-in generic definition because the possible values would not be known.
 The values can only be known when the programmer has identified them in the type definition.

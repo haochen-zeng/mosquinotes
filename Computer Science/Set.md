@@ -2,8 +2,10 @@
 date: 2023-08-29
 draft: false
 tags:
-  - Definition
-  - Computer science 
+  - definition
+  - computer-science
+aliases:
+  - set
 ---
 
 # Definition
@@ -13,4 +15,5 @@ A collection of data items that lacks any structure; contains no duplicates and 
 # Notes
 
 The way that the data values are organized is unveiled.
+
 Duplicate values are not allowed.

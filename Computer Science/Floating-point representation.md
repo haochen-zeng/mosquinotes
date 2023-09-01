@@ -12,7 +12,9 @@ A representation of a [[Real number]] that stores a value for the [[Mantissa]] a
 # Notes
 
 The generalized format:
-$$\pm M \times R^E$$
+$$
+\pm M \times R^E
+$$
 `±M` is the [[Mantissa]]. `E` is the [[Exponent]]. `R` is the [[Radix]], which has an implied value of 2.
 
 [[Mantissa]] and [[Exponent]] are represented in [[Two's complement]] form.

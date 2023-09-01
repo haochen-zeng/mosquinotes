@@ -5,7 +5,6 @@ tags:
   - definition
   - course-name
 ---
-
 # Definition
 
 # Notes

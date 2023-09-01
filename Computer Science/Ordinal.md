@@ -5,7 +5,6 @@ tags:
   - definition
   - computer-science 
 ---
-
 # Definition
 
 Being of a specified position in a numbered series.

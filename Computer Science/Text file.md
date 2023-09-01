@@ -5,7 +5,6 @@ tags:
   - definition
   - computer-science
 ---
-
 # Definition
 
 A file that its data is stored as a sequence of characters.

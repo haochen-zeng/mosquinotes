@@ -1,12 +1,12 @@
 ---
-date: 2023-08-30
+date: 2023-09-01
 draft: false
 tags:
   - definition
   - computer-science
 aliases:
-  - record
+  - Binary numbers
 ---
 # Definition
 
-A collection of fields containing data values.
+A number written using `1` and `0`.

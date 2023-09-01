@@ -5,7 +5,6 @@ tags:
   - definition
   - computer-science
 ---
-
 # Definition
 
 A file that contains records that are ordered.

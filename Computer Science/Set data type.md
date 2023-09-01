@@ -5,7 +5,6 @@ tags:
   - definition
   - computer-science 
 ---
-
 # Definition
 
 A [[Data type]] that allows a program to create [[Set]] and to apply the mathematical operations defined in [[Set]] theory.

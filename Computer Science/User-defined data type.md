@@ -5,7 +5,6 @@ tags:
   - definition
   - computer-science 
 ---
-
 # Definition
 
 A [[Data type]] that is defined by the [[User]].

@@ -5,7 +5,6 @@ tags:
   - definition
   - computer-science 
 ---
-
 # Definition
 
 A [[Data type]] that has a definition with reference to at least one other [[Data type]].

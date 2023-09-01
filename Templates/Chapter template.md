@@ -5,7 +5,6 @@ tags:
   - chapter
   - course-name
 ---
-
 # Sections
 
 # Related links

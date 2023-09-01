@@ -5,7 +5,6 @@ tags:
   - definition
   - computer-science
 ---
-
 # Definition
 
 A file that contains records that have not been organized in any defined order.

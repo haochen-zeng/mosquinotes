@@ -5,9 +5,8 @@ tags:
   - definition
   - computer-science
 aliases:
-  - user
+  - Users
 ---
-
 # Definition
 
 The programmer who use a certain programming language to write program code.

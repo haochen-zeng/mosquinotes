@@ -4,7 +4,6 @@ draft: false
 tags:
   - course
 ---
-
 # Chapters
 
 # Related links

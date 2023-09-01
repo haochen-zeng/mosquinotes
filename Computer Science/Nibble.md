@@ -1,12 +1,12 @@
 ---
-date: 2023-08-30
+date: 2023-09-01
 draft: false
 tags:
   - definition
   - computer-science
 aliases:
-  - record
+  - Nibbles
 ---
 # Definition
 
-A collection of fields containing data values.
+A group of four [[Bit|Bits]] in a unit.

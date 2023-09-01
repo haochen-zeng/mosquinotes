@@ -6,7 +6,6 @@ tags:
   - chapter-name
   - course-name
 ---
-
 # Notes
 
 # Related links

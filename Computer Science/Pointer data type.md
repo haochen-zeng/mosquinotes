@@ -5,7 +5,6 @@ tags:
   - definition
   - computer-science 
 ---
-
 # Definition
 
 A [[Data type]] which the value is the address in memory of a different variable.

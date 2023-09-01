@@ -6,7 +6,6 @@ tags:
   - data-representation
   - computer-science
 ---
-
 # Notes
 
 ## [[File organization]]

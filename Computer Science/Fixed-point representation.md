@@ -1,5 +1,5 @@
 ---
-date: 2023-08-30
+date: 2023-09-01
 draft: false
 tags:
   - definition
@@ -7,4 +7,4 @@ tags:
 ---
 # Definition
 
-The way data is stored in a file.
+# Notes

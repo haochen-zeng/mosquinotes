@@ -5,10 +5,9 @@ tags:
   - definition
   - computer-science
 ---
-
 # Definition
 
-A file that the binary equivalent of data is stored as a sequence of bytes.
+A file that the binary equivalent of data is stored as a sequence of [[Byte]].
 
 # Notes
 

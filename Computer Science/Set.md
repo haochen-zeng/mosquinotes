@@ -4,10 +4,7 @@ draft: false
 tags:
   - definition
   - computer-science
-aliases:
-  - set
 ---
-
 # Definition
 
 A collection of data items that lacks any structure; contains no duplicates and has a number of defined operations that can be performed on it.

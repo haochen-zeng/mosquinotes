@@ -11,4 +11,4 @@ A file that the binary equivalent of data is stored as a sequence of [[Byte]].
 
 # Notes
 
-Designed for storing data to be used by a computer program.
+- Designed for storing data to be used by a computer program.

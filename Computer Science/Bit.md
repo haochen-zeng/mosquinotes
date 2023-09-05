@@ -13,4 +13,4 @@ A digit in [[Binary number]].
 
 # Notes
 
-The abbreviation is `b`.
+- The abbreviation is `b`.

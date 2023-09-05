@@ -13,4 +13,4 @@ A file that the access can be to any [[Record]] in the file without sequential r
 
 # Notes
 
-The alternative is to use a hashing algorithm.
+- The alternative is to use a hashing algorithm.

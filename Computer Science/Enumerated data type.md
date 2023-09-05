@@ -11,7 +11,8 @@ A non-composite [[User-defined data type]] for which the definition identifies a
 
 # Notes
 
-One example of [[User-defined data type]].
+- There could not be a built-in generic definition because the possible values would not be known.
+- The values can only be known when the programmer has identified them in the type definition.
 
 The possible values are listed in the brackets.
 For example:
@@ -33,6 +34,3 @@ DECLARE Weekend : Boolean
 DECLARE Day : TDays
 Weekend = TRUE IF Day > Friday
 ```
-
-There could not be a built-in generic definition because the possible values would not be known.
-The values can only be known when the programmer has identified them in the type definition.

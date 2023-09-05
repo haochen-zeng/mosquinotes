@@ -12,3 +12,4 @@ tags:
 ## [[Floating-point representation]]
 ## [[Fixed-point representation]]
 ## [[Precision]]
+## [[Normalization]]

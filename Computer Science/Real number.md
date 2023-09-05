@@ -8,3 +8,7 @@ tags:
 # Definition
 
 A number with fractional part.
+
+# Notes
+
+- A binary representation is only an approximation.

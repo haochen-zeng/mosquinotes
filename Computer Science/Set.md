@@ -11,6 +11,5 @@ A collection of data items that lacks any structure; contains no duplicates and 
 
 # Notes
 
-The way that the data values are organized is unveiled.
-
-Duplicate values are not allowed.
+- The way that the data values are organized is unveiled.
+- Duplicate values are not allowed.

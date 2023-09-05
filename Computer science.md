@@ -8,3 +8,4 @@ tags:
 # Chapters
 
 ## [[Data representation]]
+## [[Communication and internet technologies]]

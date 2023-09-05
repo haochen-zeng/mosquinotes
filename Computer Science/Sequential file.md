@@ -11,7 +11,7 @@ A file that contains records that are ordered.
 
 # Notes
 
-There has to be a key for which the values are unique and sequential but not necessarily consecutive.
+- There has to be a key for which the values are unique and sequential but not necessarily consecutive.
 
 To add a new [[Record]]:
 1. Read file sequentially.

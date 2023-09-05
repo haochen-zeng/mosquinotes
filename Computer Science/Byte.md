@@ -13,4 +13,4 @@ A group of eight [[Bit|Bits]] in a unit.
 
 # Notes
 
-The abbreviation is `B`.
+- The abbreviation is `B`.

@@ -11,8 +11,8 @@ A [[Data type]] that is defined by the [[User]].
 
 # Notes
 
-Not supported by all programming language.
+- Not supported by all programming language.
 
 Exists because:
-1. No Suitable [[Data type]] is provided by the language used.
-2. The programmer needs to specify a [[Data type]] to meet requirement of the application.
+- No Suitable [[Data type]] is provided by the language used.
+- The programmer needs to specify a [[Data type]] to meet requirement of the application.

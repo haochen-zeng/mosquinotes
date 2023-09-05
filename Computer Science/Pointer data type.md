@@ -11,6 +11,9 @@ A [[Data type]] which the value is the address in memory of a different variable
 
 # Notes
 
+- Not all programming languages offer support it.
+- Those languages that do so will have their own version of the symbolism illustrated above with `^` and `@`.
+
 `^` before a [[Data type]] is used for definition.
 For example:
 ```
@@ -33,9 +36,6 @@ Number1 <- 100
 MyIntegerPointer <- @Number1
 Number2 <- MyIntegerPointer^ * 2
 ```
-
-Not all programming languages offer support it.
-Those languages that do so will have their own version of the symbolism illustrated above with `^` and `@`.
 
 Advanced topic:
 Because arithmetic can be performed on [[Pointer variable]], it is possible to use [[Pointer variable]] to construct dynamically varying data structure.

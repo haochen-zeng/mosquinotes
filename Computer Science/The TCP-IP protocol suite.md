@@ -11,4 +11,4 @@ aliases:
 ---
 # Notes
 
-## [[TCP-IP protocol suite]]
+## [[TCP-IP protocol suite|TCP/IP protocol suite]]

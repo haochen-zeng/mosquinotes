@@ -10,4 +10,4 @@ tags:
 ## [[Transmission modes]]
 ## [[Protocols]]
 ## [[A protocol stack]]
-## [[The TCP-IP protocol suite|The TCP/IP protocol suite]]
+## [[The TCP-IP protocol suite]]

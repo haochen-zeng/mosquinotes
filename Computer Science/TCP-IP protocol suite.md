@@ -4,9 +4,6 @@ draft: false
 tags:
   - definition
   - computer-science
-title: TCP/IP protocol suite
-aliases:
-  - TCP/IP protocol suite
 ---
 # Definition
 

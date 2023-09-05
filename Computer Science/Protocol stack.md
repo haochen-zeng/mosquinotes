@@ -17,5 +17,5 @@ For a [[Protocol suite]], the [[Protocol|Protocols]] can be viewed as layers:
 - A layer is serviced by the actions of lower layers.
 - With the possible exception of the lowest layer the functioning of a layer is created by installed software.
 - A layer may comprise sub-layers.
-- Any user interaction will take place using [[Protocol|Protocols]] associated with the highest level layer in the stack.
+- Any [[User]] interaction will take place using [[Protocol|Protocols]] associated with the highest level layer in the stack.
 - Any direct access to hardware is confined to the lowest layer in the stack.

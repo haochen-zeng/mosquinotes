@@ -20,7 +20,7 @@ There are two types:
 
 Benefits:
 - Multiple guests operating system can be used on the same computer.
-- Different instruction set architectures can be emulated on a single computer.
+- Different [[Instruction set architecture|Instruction set architectures]] can be emulated on a single computer.
 - Crush without affecting the [[Host]].
 - Security.
 - Cost saving due to not needing to purchase extra hardware.

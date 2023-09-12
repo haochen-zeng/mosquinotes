@@ -4,6 +4,8 @@ draft: false
 tags:
   - definition
   - computer-science
+aliases:
+  - Instruction set architectures
 ---
 # Definition
 

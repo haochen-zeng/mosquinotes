@@ -13,6 +13,7 @@ A flip flop with two inputs, one is S and other is R.
 
 # Notes
 
+- An example of [[Sequential circuit]].
 - One bit memory.
 - Can be constructed with two NAND gates or two NOR gates.
 

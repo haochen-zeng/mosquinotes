@@ -5,7 +5,7 @@ tags:
   - definition
   - computer-science
 aliases:
-  - Multiple Instruction Stream Single Data Stream
+  - MISD
 ---
 # Definition
 

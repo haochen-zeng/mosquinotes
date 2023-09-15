@@ -5,6 +5,6 @@ tags:
   - definition
   - computer-science
 aliases:
-  - Public Switched Telephone Network
+  - PSTN
 ---
 # Definition

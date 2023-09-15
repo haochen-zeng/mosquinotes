@@ -10,6 +10,7 @@ tags:
 ## [[Data representation]]
 ## [[Communication and internet technologies]]
 ## [[Hardware and virtual machines]]
+## [[Logic circuits and boolean algebra]]
 
 # Related links
 

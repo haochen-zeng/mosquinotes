@@ -5,7 +5,7 @@ tags:
   - definition
   - computer-science
 aliases:
-  - Complex Instruction Set Computer
+  - CISC
 ---
 # Definition
 

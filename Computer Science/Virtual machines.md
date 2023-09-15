@@ -3,7 +3,7 @@ date: 2023-09-12
 draft: false
 tags:
   - section
-  - hardware-and-virtual-mahcines
+  - hardware-and-virtual-machines
   - computer-science
 ---
 # Notes

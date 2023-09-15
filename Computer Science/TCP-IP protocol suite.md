@@ -11,10 +11,8 @@ A [[Protocol suite]] underpinning the internet usage.
 
 # Notes
 
-- [[TCP]] and [[IP]] are the two mean [[Protocol|Protocols]].
+- [[Transmission Control Protocol|TCP]] and [[Internet Protocol|IP]] are the two mean [[Protocol|Protocols]].
 - The internet would not exist without it.
-- Specifies how data is exchanged over the internet.
-- Provides end-to-end communication that identifies how it should be broken into packets, addressed, transmitted, routed and received at the destination.
 - Requires little central management.
 - Designed to make networks reliable with the ability to recover automatically from the failure of any device on the network.
 

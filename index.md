@@ -10,6 +10,7 @@ For more details and to contribute, visit our [Github repository page](https://g
 # Subjects
 
 ## [[Computer science]]
+## [[Economics]]
 
 # A project initiated by
 

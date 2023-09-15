@@ -5,7 +5,7 @@ tags:
   - definition
   - computer-science
 aliases:
-  - Reduced Instruction Set Computer
+  - RISC
 ---
 # Definition
 

@@ -3,12 +3,12 @@ date: 2023-09-11
 draft: false
 tags:
   - section
-  - hardware-and-virtual-mahcines
+  - hardware-and-virtual-machines
   - computer-science
 ---
 # Notes
 
-## [[SISD]]
-## [[SIMD]]
-## [[MISD]]
-## [[MIMD]]
+## [[Single Instruction Stream Single Data Stream|SISD]]
+## [[Single Instruction Stream Multiple Data Stream|SIMD]]
+## [[Multiple Instruction Stream Single Data Stream|MISD]]
+## [[Multiple Instruction Stream Multiple Data Stream|MIMD]]

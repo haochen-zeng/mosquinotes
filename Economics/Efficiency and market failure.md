@@ -1,0 +1,13 @@
+---
+date: 2023-09-14
+draft: false
+tags:
+  - chapter
+  - economics
+---
+# Sections
+
+## [[Economic efficiency]]
+## [[Pareto optimality]]
+## [[Dynamic efficiency]]
+## [[Market failure]]

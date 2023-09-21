@@ -1,5 +1,5 @@
 ---
-date: 2023-09-14
+date: 2023-09-21
 draft: false
 tags:
   - section
@@ -8,6 +8,6 @@ tags:
 ---
 # Notes
 
-## [[Sequential circuit]]
-## [[SR flip flop]]
-## [[JK flip flop]]
+## [[Boolean algebra identities]]
+
+# Related links

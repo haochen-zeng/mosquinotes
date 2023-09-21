@@ -9,8 +9,8 @@ For more details and to contribute, visit our [Github repository page](https://g
 
 # Subjects
 
-## [[Computer science]]
-## [[Economics]]
+## [[Computer Science/index|Computer Science]]
+## [[Economics/index|Economics]]
 
 # A project initiated by
 

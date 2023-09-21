@@ -7,4 +7,4 @@ tags:
 ---
 # Definition
 
-Cost saving accruing to all firms as the scale of the industry increases.
+Fall in [[Long run average total cost]] accruing to all firms as the scale of the industry increases.

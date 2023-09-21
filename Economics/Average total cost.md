@@ -4,6 +4,8 @@ draft: false
 tags:
   - definition
   - economics
+aliases:
+  - ATC
 ---
 # Definition
 

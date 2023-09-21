@@ -5,6 +5,7 @@ tags:
   - definition
   - economics
 ---
+
 # Definition
 
 A [[Long run]] concept about the relationship between a percentage increase in all inputs and the resulting percentage change in output.

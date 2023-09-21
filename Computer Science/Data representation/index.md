@@ -4,9 +4,10 @@ draft: false
 tags:
   - chapter
   - computer-science
+aliases: []
 ---
 # Sections
 
-## [[Data types]]
+## [[Computer Science/Data representation/Data types/index]]
 ## [[File organizations]]
 ## [[Real numbers]]

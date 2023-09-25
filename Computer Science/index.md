@@ -14,7 +14,7 @@ aliases:
 ## [[Computer Science/Communication and Internet technologies/index|Communication and Internet technologies]]
 ## [[Computer Science/Hardware and virtual machines/index|Hardware and virtual machines]]
 ## [[Computer Science/Logic circuits and boolean algebra/index|Logic circuits and boolean algebra]]
-## [[Computer Science/Security/index]]
+## [[Computer Science/Security/index|Security]]
 ## [[Computer Science/System software/index|System software]]
 
 # Related links

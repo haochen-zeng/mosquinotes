@@ -1,4 +1,5 @@
 ---
+title: Computer Science
 date: 2023-08-30
 draft: false
 tags:
@@ -9,11 +10,12 @@ aliases:
 
 # Chapters
 
-## [[Computer Science/Data representation/index]]
-## [[Communication and internet technologies]]
-## [[Hardware and virtual machines]]
-## [[Logic circuits and boolean algebra]]
-## [[Security]]
+## [[Computer Science/Data representation/index|Data representation]]
+## [[Computer Science/Communication and Internet technologies/index|Communication and Internet technologies]]
+## [[Computer Science/Hardware and virtual machines/index|Hardware and virtual machines]]
+## [[Computer Science/Logic circuits and boolean algebra/index|Logic circuits and boolean algebra]]
+## [[Computer Science/Security/index]]
+## [[Computer Science/System software/index|System software]]
 
 # Related links
 

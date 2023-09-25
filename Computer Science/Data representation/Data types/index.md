@@ -1,10 +1,13 @@
 ---
+title: Data types
 date: 2023-08-29
 draft: false
 tags:
   - section
   - data-representation
-  - computer-science 
+  - computer-science
+aliases:
+  - Data types
 ---
 # Notes
 

@@ -8,3 +8,5 @@ aliases:
   - PSTN
 ---
 # Definition
+
+The world's collection of interconnected voice-oriented public telephone networks.
